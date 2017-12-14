@@ -1,0 +1,13 @@
+{
+  "name": "poker-assessment",
+  "version": "1.0.0",
+  "description": "Assessment for SprintHive",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
